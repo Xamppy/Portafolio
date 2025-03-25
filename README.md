@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Felipe's Developer Portfolio 👨‍💻
 
-## Getting Started
+[![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Visit+My+Portfolio)](https://yourportfolio-url.com)
 
-First, run the development server:
+## Hello World! 🌎
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I'm Felipe, a 26-year-old Computer Engineering student passionate about building digital experiences that matter. I specialize in developing both web and mobile applications with clean, efficient code and intuitive user interfaces.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Technical Toolkit
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Web Development
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Mobile Development
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
-## Learn More
+### Backend & Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Featured Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Web App: DocuGest
+- Document management system with geolocation
+- Built with: **Ionic, Angular, Firebase**
+- [Live Demo](https://yourprojectdemo.com)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Mobile App: DARA Project
+- University department document manager
+- Built with: **Ionic, Angular, MySQL**
+- [App Store Link](#)
 
-## Deploy on Vercel
+## 📚 Currently Learning
+- React, Next.js, Tailwind
+- Machine Learning
+- Flutter
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📫 Let's Connect!
+- [GitHub](https://github.com/Xamppy)
+- Email: f.orellanalvarez@gmail.com

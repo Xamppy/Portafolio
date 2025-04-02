@@ -21,3 +21,28 @@ html {
     @apply lg:max-w-6xl;
   }
 }
+
+/* Transición suave para el modal */
+.Dialog-overlay {
+  animation: fadeIn 0.2s ease-out;
+}
+
+.Dialog-content {
+  animation: fadeInUp 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from { 
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to { 
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

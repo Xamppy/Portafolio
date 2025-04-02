@@ -6,15 +6,19 @@ import { AboutSection } from "@/sections/About";
 import { ContactSection } from "@/sections/Contact";
 import { Footer } from "@/sections/Footer";
 
+export const dynamic = 'error'; // Previene el uso de dinámicos en estático
+
 export default function Home() {
   return (
-    <div>
+    <div className="min-h-screen flex flex-col">
       <Header />
-      <HeroSection />
-      <ProjectsSection />
-      <TapeSection />
-      <AboutSection />
-      <ContactSection />
+      <main className="flex-grow">
+        <HeroSection />
+        <ProjectsSection />
+        <TapeSection />
+        <AboutSection />
+        <ContactSection />
+      </main>
       <Footer />
     </div>
   );

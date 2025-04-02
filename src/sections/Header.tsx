@@ -6,7 +6,7 @@ export const Header = () => {
       <a href="#hero" className="nav-item">Inicio</a>
       <a href="#proyectos" className="nav-item">Proyectos</a>
       <a href="#about" className="nav-item">Sobre mi</a>
-      <a href="#" className="nav-item bg-white text-gray-900 hover:bg-white/70 hover:text-gray:900">Contacto</a>
+      <a href="#contacto" className="nav-item bg-white text-gray-900 hover:bg-white/70 hover:text-gray:900">Contacto</a>
     </nav>
   </div>
   );
